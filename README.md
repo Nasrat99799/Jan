@@ -10,4 +10,4 @@ chmod 777 SN.py
 
 git pull
 
-python SN.py
+python run.py
